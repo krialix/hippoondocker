@@ -1,0 +1,93 @@
+/content/gallery/myhippoproject/samples:
+  jcr:primaryType: hippogallery:stdImageGallery
+  jcr:mixinTypes: ['mix:referenceable']
+  jcr:uuid: 84bd5da8-8298-400f-a339-3597a032d370
+  hippostd:foldertype: [new-image-folder]
+  hippostd:gallerytype: ['hippogallery:imageset']
+  /blue-199261_150.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: 9f32434e-84e3-4150-a6f2-d89a67be2fb1
+    /blue-199261_150.jpg:
+      jcr:primaryType: hippogallery:imageset
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 6c7a5b02-0ec9-4c98-b9c6-ffe61932c24c
+      hippo:availability: [live, preview]
+      hippogallery:description: Description for blue-199261_150.jpg
+      hippogallery:filename: blue-199261_150.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 39
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/myhippoproject/samples/blue-199261_150.jpg/blue-199261_150_thumbnail.jpg
+        jcr:lastModified: 2013-11-12T11:15:00+01:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 99
+        hippogallery:width: 150
+        jcr:data:
+          type: binary
+          resource: /content/gallery/myhippoproject/samples/blue-199261_150.jpg/blue-199261_150_original.jpg
+        jcr:lastModified: 2013-11-12T11:15:00+01:00
+        jcr:mimeType: image/jpeg
+  /coffee-206142_150.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: c8f03498-56eb-46c9-83b2-cf014f2e03d7
+    /coffee-206142_150.jpg:
+      jcr:primaryType: hippogallery:imageset
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: 0cb9901a-cf3e-4162-9145-13d2906ad19a
+      hippo:availability: [live, preview]
+      hippogallery:description: Description for coffee-206142_150.jpg
+      hippogallery:filename: coffee-206142_150.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 39
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/myhippoproject/samples/coffee-206142_150.jpg/coffee-206142_150_thumbnail.jpg
+        jcr:lastModified: 2013-11-12T11:09:00+01:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 99
+        hippogallery:width: 150
+        jcr:data:
+          type: binary
+          resource: /content/gallery/myhippoproject/samples/coffee-206142_150.jpg/coffee-206142_150_original.jpg
+        jcr:lastModified: 2013-11-12T11:09:00+01:00
+        jcr:mimeType: image/jpeg
+  /pencils-199883_150.jpg:
+    jcr:primaryType: hippo:handle
+    jcr:mixinTypes: ['mix:referenceable']
+    jcr:uuid: d035387b-f9ce-49f6-bcb0-9ab6915a2d5f
+    /pencils-199883_150.jpg:
+      jcr:primaryType: hippogallery:imageset
+      jcr:mixinTypes: ['mix:referenceable']
+      jcr:uuid: aea48393-3492-4fcb-8053-5c0ced7b822d
+      hippo:availability: [live, preview]
+      hippogallery:description: Description for pencils-199883_150.jpg
+      hippogallery:filename: pencils-199883_150.jpg
+      /hippogallery:thumbnail:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 39
+        hippogallery:width: 60
+        jcr:data:
+          type: binary
+          resource: /content/gallery/myhippoproject/samples/pencils-199883_150.jpg/pencils-199883_150_thumbnail.jpg
+        jcr:lastModified: 2013-11-12T11:16:00+01:00
+        jcr:mimeType: image/jpeg
+      /hippogallery:original:
+        jcr:primaryType: hippogallery:image
+        hippogallery:height: 99
+        hippogallery:width: 150
+        jcr:data:
+          type: binary
+          resource: /content/gallery/myhippoproject/samples/pencils-199883_150.jpg/pencils-199883_150_original.jpg
+        jcr:lastModified: 2013-11-12T11:16:00+01:00
+        jcr:mimeType: image/jpeg
